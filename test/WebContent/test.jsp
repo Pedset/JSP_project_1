@@ -3,6 +3,7 @@
 <body>
 
 <form action="NewFile.jsp">
+<p>HEJ</p>
 	First Name: <input type="text" name="firstName" >
 	<br><br>
 	Last Name: <input type="text" name="lastName">
